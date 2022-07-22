@@ -1,0 +1,45 @@
+C:\Users\Salam\Desktop\Proyecto Herencia\Proyecto Domino\obj\Debug\net6.0\Proyecto Domino.csproj.AssemblyReference.cache
+C:\Users\Salam\Desktop\Proyecto Herencia\Proyecto Domino\obj\Debug\net6.0\Proyecto Domino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salam\Desktop\Proyecto Herencia\Proyecto Domino\obj\Debug\net6.0\Proyecto Domino.AssemblyInfoInputs.cache
+C:\Users\Salam\Desktop\Proyecto Herencia\Proyecto Domino\obj\Debug\net6.0\Proyecto Domino.AssemblyInfo.cs
+C:\Users\Salam\Desktop\Proyecto Herencia\Proyecto Domino\obj\Debug\net6.0\Proyecto Domino.csproj.CoreCompileInputs.cache
+C:\Users\Salam\Desktop\Proyecto Herencia\Proyecto Domino\bin\Debug\net6.0\Proyecto Domino.exe
+C:\Users\Salam\Desktop\Proyecto Herencia\Proyecto Domino\bin\Debug\net6.0\Proyecto Domino.deps.json
+C:\Users\Salam\Desktop\Proyecto Herencia\Proyecto Domino\bin\Debug\net6.0\Proyecto Domino.runtimeconfig.json
+C:\Users\Salam\Desktop\Proyecto Herencia\Proyecto Domino\bin\Debug\net6.0\Proyecto Domino.dll
+C:\Users\Salam\Desktop\Proyecto Herencia\Proyecto Domino\bin\Debug\net6.0\ref\Proyecto Domino.dll
+C:\Users\Salam\Desktop\Proyecto Herencia\Proyecto Domino\bin\Debug\net6.0\Proyecto Domino.pdb
+C:\Users\Salam\Desktop\Proyecto Herencia\Proyecto Domino\obj\Debug\net6.0\Proyecto Domino.dll
+C:\Users\Salam\Desktop\Proyecto Herencia\Proyecto Domino\obj\Debug\net6.0\ref\Proyecto Domino.dll
+C:\Users\Salam\Desktop\Proyecto Herencia\Proyecto Domino\obj\Debug\net6.0\Proyecto Domino.pdb
+C:\Users\Salam\Desktop\Proyecto Herencia\Proyecto Domino\obj\Debug\net6.0\Proyecto Domino.genruntimeconfig.cache
+C:\Users\Salam\Desktop\Proyecto Domino\bin\Debug\net6.0\Proyecto Domino.exe
+C:\Users\Salam\Desktop\Proyecto Domino\bin\Debug\net6.0\Proyecto Domino.deps.json
+C:\Users\Salam\Desktop\Proyecto Domino\bin\Debug\net6.0\Proyecto Domino.runtimeconfig.json
+C:\Users\Salam\Desktop\Proyecto Domino\bin\Debug\net6.0\Proyecto Domino.dll
+C:\Users\Salam\Desktop\Proyecto Domino\bin\Debug\net6.0\ref\Proyecto Domino.dll
+C:\Users\Salam\Desktop\Proyecto Domino\bin\Debug\net6.0\Proyecto Domino.pdb
+C:\Users\Salam\Desktop\Proyecto Domino\obj\Debug\net6.0\Proyecto Domino.csproj.AssemblyReference.cache
+C:\Users\Salam\Desktop\Proyecto Domino\obj\Debug\net6.0\Proyecto Domino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salam\Desktop\Proyecto Domino\obj\Debug\net6.0\Proyecto Domino.AssemblyInfoInputs.cache
+C:\Users\Salam\Desktop\Proyecto Domino\obj\Debug\net6.0\Proyecto Domino.AssemblyInfo.cs
+C:\Users\Salam\Desktop\Proyecto Domino\obj\Debug\net6.0\Proyecto Domino.csproj.CoreCompileInputs.cache
+C:\Users\Salam\Desktop\Proyecto Domino\obj\Debug\net6.0\Proyecto Domino.dll
+C:\Users\Salam\Desktop\Proyecto Domino\obj\Debug\net6.0\ref\Proyecto Domino.dll
+C:\Users\Salam\Desktop\Proyecto Domino\obj\Debug\net6.0\Proyecto Domino.pdb
+C:\Users\Salam\Desktop\Proyecto Domino\obj\Debug\net6.0\Proyecto Domino.genruntimeconfig.cache
+C:\Users\Salam\Desktop\Proyectos\Proyecto Domino\bin\Debug\net6.0\Proyecto Domino.exe
+C:\Users\Salam\Desktop\Proyectos\Proyecto Domino\bin\Debug\net6.0\Proyecto Domino.deps.json
+C:\Users\Salam\Desktop\Proyectos\Proyecto Domino\bin\Debug\net6.0\Proyecto Domino.runtimeconfig.json
+C:\Users\Salam\Desktop\Proyectos\Proyecto Domino\bin\Debug\net6.0\Proyecto Domino.dll
+C:\Users\Salam\Desktop\Proyectos\Proyecto Domino\bin\Debug\net6.0\ref\Proyecto Domino.dll
+C:\Users\Salam\Desktop\Proyectos\Proyecto Domino\bin\Debug\net6.0\Proyecto Domino.pdb
+C:\Users\Salam\Desktop\Proyectos\Proyecto Domino\obj\Debug\net6.0\Proyecto Domino.csproj.AssemblyReference.cache
+C:\Users\Salam\Desktop\Proyectos\Proyecto Domino\obj\Debug\net6.0\Proyecto Domino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salam\Desktop\Proyectos\Proyecto Domino\obj\Debug\net6.0\Proyecto Domino.AssemblyInfoInputs.cache
+C:\Users\Salam\Desktop\Proyectos\Proyecto Domino\obj\Debug\net6.0\Proyecto Domino.AssemblyInfo.cs
+C:\Users\Salam\Desktop\Proyectos\Proyecto Domino\obj\Debug\net6.0\Proyecto Domino.csproj.CoreCompileInputs.cache
+C:\Users\Salam\Desktop\Proyectos\Proyecto Domino\obj\Debug\net6.0\Proyecto Domino.dll
+C:\Users\Salam\Desktop\Proyectos\Proyecto Domino\obj\Debug\net6.0\ref\Proyecto Domino.dll
+C:\Users\Salam\Desktop\Proyectos\Proyecto Domino\obj\Debug\net6.0\Proyecto Domino.pdb
+C:\Users\Salam\Desktop\Proyectos\Proyecto Domino\obj\Debug\net6.0\Proyecto Domino.genruntimeconfig.cache

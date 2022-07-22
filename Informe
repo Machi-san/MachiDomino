@@ -1,0 +1,58 @@
+Ante todo nos gustaria enviar un fuerte agradecimiento a los profesores Daniel 
+y Javier de MATCOM por su asesoria y dedicacion en nuestro trabajo. Machi-Domino 
+es un proyecto de consola que consiste en reflejar una partida de domino virtual. 
+El objetivo principal de Machi-Domino es otorgarle al usuario feedback del flujo 
+del juego y la capacidad de que este interactue con  nuestra aplicacion. Antes de
+comenzar la partida el usuario debe asignar los elementos de las fichas a la lista
+List<object> _elementosFichas. El usuario es libre de asignar los elementos que 
+desee, de lo contrario puede jugar con el token System.String de Machi-Domino.
+Los token asignados deben implementar las interfaces IComparable y IEquatable<T>,
+para que los elementos se puedan comparar de la forma que el usuario desee y pueda
+determinar las condiciones para colocar una ficha en la mesa.  
+Contamos con un menu guia para que el usuario sepa que va pasando en cada momento 
+de su viaje. 
+Contamos con 2 tipos de juego, el clasico, referido al domino clasico, y la longana 
+una personalizacion de la aplicacion. Contamos con la interfaz ITipoJuego<T> encargada
+de reflejar el tipo de juego que desee el usuario y de esta forma el usuario puede 
+crear todas los tipos de juego que desee, solo tiene que implementar ITipoJuego<T>.
+El usuario es libre de escoger la variante doble que desee (la maxima variante que se 
+puede escoger es la cantidad de token que determino - 1), y de esta depende el numero
+de fichas generado. Asimismo es libre de decidir con cuantos jugadores desea jugar, con
+la condicion de que no exceda el numero de fichas generadas, y puede determinar la cantidad
+de fichas que puede tener cada jugador en su mano de forma tal que cada jugador tenga igual
+cantidad de fichas.
+Para generar las fichas y las manos creamos la interfaz IBanco<T> encargada de darle a cada
+jugador el numero de fichas que desee el usuario y generar todas las fichas del juego, asi, 
+si el usuario desea implementar un criterio de como generar las fichas del juego y de los
+jugadores, solo debe implementar IBanco<T>.
+Machi-Domino otorga al usuario la posibilidad de jugar con 2 IA, una que evidencia la estrategia 
+de un jugador que juega random y otra que evidencia la famosa tactica "botagorda"; ademas, el 
+usuario puede ser un jugador mas del juego o sencillamente limitarse a visualizar como juegan las 
+IA. Para ello, se creo la interfaz IJugador<T>, encargada de hacer que un jugdor juegue, que reciba
+las fichas que le otorga IBanco<T>, determine su ultimo estado, ya sea si se paso o jugo, y lleve la
+cuenta de cuantas veces se ha pasado; si el usuario desea agregar un nuevo tipo de jugador, solo debe 
+implementar IJugador<T>.
+Es evidente no se puede jugar sin seguir las reglas, y para ello contamos con la interfaz IReglas<T>,
+encargada de determinar cuando una jugada es valida, cuando el juego termino y cuando un jugador se
+pego. En Machi-Domino hay que ganar, pero el usuario es libre de escoger las condiciones bajo las 
+cuales un jugador es el ganador en caso de que haya concluido el juego y nadie se haya pegado. Para ello, 
+IReglas<T> cuenta con el metodo List<int> GanadorCierre, que consiste en una lista con las posiciones de 
+los jugadores que cumplieron las condiciones de la victoria, cuyo metodos usa para ello la interfaz 
+IGanadorCierre<T>, encargada de seleccionar los criterios de victoria. En Machi-Domino aplicmos el 
+criterio de victoria de que gana si el jugador que tenga la menor la cantidad de puntos y el criterio del
+jugador que menos se haya pasado. El usuario es libre de crear los criterios que se imagine, solo debe 
+implementar IGanadorCierre<T> e implementar IReglas<T>. Tambien contamos con criterios para saber si un 
+juego finalizo; para ello contamos con la interfaz IFin<T>, encargada de seleccionar el criterio de
+fin para el juego que haya seleccionado el usuario, por lo que el mismo es libre de implementar el
+criterio de finalizacion que desee a traves de IFin<T>, la cual es llamada por IReglas<T> atraves del
+metodo bool Fin. 
+Por ultimo, para ver el flujo del juego, se implemento la la clase estatica Domino<T>, con la idea
+de que no se instancie, solo ejecuta el metodo void FlujoJuego y el usuario puede visualizar todos los
+cambios. Esta clase tambien es usada para inicializar la mayoria de las instancias de las clases para
+su posterior uso durante la generecidad.
+Para la revision y legibilidad del codigo codigo, el programador se encargo de comentar lineas de codigo
+que pueden serle de dificil comprension al usuario, y sepa lo que significa cada cosa, y se llevo a cabo 
+un seguimiento de los principios SOLID y las buens practicas de encapsulamiento y de la nomenclatura de 
+las variables y metodos.
+Esperamos que disfrute Machi-Domino y no dude en contctarnos para para tratar cualquier cuestion refernte
+a nuestra aplicacion.
